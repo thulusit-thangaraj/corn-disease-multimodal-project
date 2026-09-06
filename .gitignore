@@ -1,0 +1,4 @@
+data/
+*.h5
+*.zip
+__pycache__/
